@@ -1,5 +1,5 @@
 s=input()
 if s==s[::-1]:
- print("pal")
+ print("palindrom")
 else:
- print("not a pal")
+ print("not a palindrom")
